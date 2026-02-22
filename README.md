@@ -20,4 +20,5 @@ This project detects human fall events in video using a Roboflow-hosted deep lea
 ## How to Run
 
 pip install -r requirements.txt
+
 streamlit run project_streamlit.py

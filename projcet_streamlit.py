@@ -6,7 +6,7 @@ import tempfile
 # ============================
 # CONFIGURATION
 # ============================
-API_KEY = "uMDnyfDOjACzLL1MF9Oe"
+API_KEY = "We5taABdsOMILDXzW866"
 PROJECT_ID = "fall-detection-mbldh"
 MODEL_VERSION = "1"
 

@@ -39,9 +39,11 @@ human posture as either "Fall Detected" or "Standing" in real time.
 
 ## How to Run Locally
 pip install -r requirements.txt
+
 streamlit run fall_detection_streamlit/project_streamlit.py
 
 ## Developer
 Hetanjali Vaghela
+
 B.E. Robotics & Automation Engineering | LDCE Ahmedabad
 

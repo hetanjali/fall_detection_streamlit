@@ -6,7 +6,7 @@ import tempfile
 # ============================
 # CONFIGURATION
 # ============================
-API_KEY = "We5taABdsOMILDXzW866"
+API_KEY = st.secrets["ROBOFLOW_API_KEY"]
 PROJECT_ID = "fall-detection-mbldh"
 MODEL_VERSION = "1"
 
